@@ -1,4 +1,4 @@
-module github.com/MerlinKodo/sing-shadowsocks22
+module github.com/MerlinKodo/sing-shadowsocks2
 
 go 1.18
 
