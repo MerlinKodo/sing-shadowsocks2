@@ -3,10 +3,10 @@ package shadowsocks
 import (
 	"context"
 
-	C "github.com/metacubex/sing-shadowsocks2/cipher"
-	_ "github.com/metacubex/sing-shadowsocks2/shadowaead"
-	_ "github.com/metacubex/sing-shadowsocks2/shadowaead_2022"
-	_ "github.com/metacubex/sing-shadowsocks2/shadowstream"
+	C "github.com/MerlinKodo/sing-shadowsocks/cipher"
+	_ "github.com/MerlinKodo/sing-shadowsocks/shadowaead"
+	_ "github.com/MerlinKodo/sing-shadowsocks/shadowaead_2022"
+	_ "github.com/MerlinKodo/sing-shadowsocks/shadowstream"
 )
 
 type (

@@ -1,4 +1,4 @@
-module github.com/metacubex/sing-shadowsocks2
+module github.com/MerlinKodo/sing-shadowsocks
 
 go 1.18
 

@@ -9,9 +9,9 @@ import (
 	"net"
 	"os"
 
-	C "github.com/metacubex/sing-shadowsocks2/cipher"
-	"github.com/metacubex/sing-shadowsocks2/internal/legacykey"
-	"github.com/metacubex/sing-shadowsocks2/internal/shadowio"
+	C "github.com/MerlinKodo/sing-shadowsocks/cipher"
+	"github.com/MerlinKodo/sing-shadowsocks/internal/legacykey"
+	"github.com/MerlinKodo/sing-shadowsocks/internal/shadowio"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/buf"
 	"github.com/sagernet/sing/common/bufio"
