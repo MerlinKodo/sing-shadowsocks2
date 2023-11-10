@@ -6,9 +6,9 @@ import (
 	"crypto/cipher"
 	"net"
 
-	C "github.com/MerlinKodo/sing-shadowsocks/cipher"
-	"github.com/MerlinKodo/sing-shadowsocks/internal/legacykey"
-	"github.com/MerlinKodo/sing-shadowsocks/internal/shadowio"
+	C "github.com/MerlinKodo/sing-shadowsocks2/cipher"
+	"github.com/MerlinKodo/sing-shadowsocks2/internal/legacykey"
+	"github.com/MerlinKodo/sing-shadowsocks2/internal/shadowio"
 	"github.com/sagernet/sing/common"
 	"github.com/sagernet/sing/common/buf"
 	"github.com/sagernet/sing/common/bufio"
